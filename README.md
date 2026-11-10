@@ -1,7 +1,5 @@
 # Marc-Antoine Paquet
 
-**Solutions Developer — Data Platforms**
-
 I build data platforms and AI tooling, in Python, TypeScript and SQL.
 
 **Data platforms:** pipelines from external APIs, the database, and the web app on top. Right now, a training
