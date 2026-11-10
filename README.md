@@ -2,7 +2,17 @@
 
 **Solutions Developer — Data Platforms**
 
-I build data products for endurance sport, and tools for building and learning with coding agents.
+I build data platforms and AI tooling, in Python, TypeScript and SQL.
+
+**Data platforms:** pipelines from external APIs, the database, and the web app on top. Right now, a training
+platform for endurance sport.
+
+**AI tooling:** agents, skills and workflows for Claude Code and Gemini, and automation of repetitive tasks with AI.
+
+**Day job:** enterprise IT at a large company: data and reporting, AI automations, and turning business
+requirements into technical specifications.
+
+Self-taught. I learn by building and digging into complex problems.
 
 ## Projects
 
